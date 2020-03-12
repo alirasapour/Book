@@ -28,7 +28,7 @@
 
 #####   Linux
 * [Linux Pocket](https://github.com/alirasapour/Book/blob/master/Linux/Linux%20Pocket.pdf)
-
+* [/Linux Command Line and Shell Scripting Bible, 3rd Edition](https://github.com/alirasapour/Book/blob/master/Linux/Linux%20Command%20Line%20and%20Shell%20Scripting%20Bible%2C%203rd%20Edition.pdf)
 #####   MongoDB
 
 
