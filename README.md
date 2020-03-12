@@ -12,6 +12,8 @@
 
 #####   Devops
 
+* [Devops in Paractise](https://github.com/alirasapour/Book/blob/master/Devops/Devops%20in%20Paractise.pdf)
+
 
 #####   Kubernates
 
