@@ -17,7 +17,7 @@
 
 
 #####   Kubernates
-
+* [k8s-patterns - 2017 ](https://github.com/alirasapour/Book/blob/master/Kubernates/k8s-patterns%20-%202017.pdf)
 
 #####   Docker
 
