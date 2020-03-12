@@ -13,6 +13,7 @@
 #####   Devops
 
 * [Devops in Paractise](https://github.com/alirasapour/Book/blob/master/Devops/Devops%20in%20Paractise.pdf)
+* [Effective Devops](https://github.com/alirasapour/Book/blob/master/Devops/Effective%20Devops.pdf)
 
 
 #####   Kubernates
