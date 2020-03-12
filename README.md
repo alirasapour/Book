@@ -24,15 +24,14 @@
 * [Docker-Cookbook](https://github.com/alirasapour/Book/blob/master/Docker/Docker-Cookbook.pdf)
 * [Using Docker](https://github.com/alirasapour/Book/blob/master/Docker/Using%20Docker.pdf)
 #####   Vagrant
-
+* [Vagrant](https://github.com/alirasapour/Book/blob/master/Vagrant/Vagrant.pdf)
 
 #####   Puppet
-
+* [Puppet 4](https://github.com/alirasapour/Book/blob/master/Puppet/Puppet%204.pdf)
 
 #####   Linux
-
+* [Linux Pocket](https://github.com/alirasapour/Book/blob/master/Linux/Linux%20Pocket.pdf)
 
 #####   Machine Learning
 
 
-#####   Kubernates
